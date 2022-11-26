@@ -30,7 +30,7 @@
   
 ## some links
   1. github repositry :
-  2. github pages link : 
+  2. github pages link : https://shaiksameerhussain.github.io/-Frt-Project-Sameer/
   3. azure static web apps deployment link : 
   
   
