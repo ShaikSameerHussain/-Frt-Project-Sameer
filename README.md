@@ -31,7 +31,7 @@
 ## some links
   1. github repositry :https://github.com/ShaikSameerHussain/-Frt-Project-Sameer.git
   2. github pages link : https://shaiksameerhussain.github.io/-Frt-Project-Sameer/
-  3. azure static web apps deployment link : https://witty-grass-055458c00.2.azurestaticapps.net
+  3. azure static web apps deployment link : https://ambitious-ground-0cfadfb10.2.azurestaticapps.net
   
   
 ## attached screenshots of the project 
